@@ -1,0 +1,20 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+        <OutputType>WinExe</OutputType>
+        <TargetFramework>net7.0-windows</TargetFramework>
+        <Nullable>enable</Nullable>
+        <UseWPF>true</UseWPF>
+    </PropertyGroup>
+
+    <ItemGroup>
+      <ProjectReference Include="..\SnapWindow\SnapWindow.csproj" />
+    </ItemGroup>
+
+    <ItemGroup>
+      <Reference Include="WindowSnap">
+        <HintPath>..\..\..\..\..\..\Downloads\WindowSnap-462130b21b164771a47b822f8604014ec8e70677\bin\Debug\WindowSnap.dll</HintPath>
+      </Reference>
+    </ItemGroup>
+
+</Project>

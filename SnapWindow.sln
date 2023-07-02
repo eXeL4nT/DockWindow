@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SnapWindow", "SnapWindow\SnapWindow.csproj", "{225368F1-F4B4-4398-9F9E-F4EBC337CD5D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SnapWindowDemo", "SnapWindowDemo\SnapWindowDemo.csproj", "{9867D03C-479D-4642-9052-A519E8AB4386}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AppBarDemo", "AppBarDemo\AppBarDemo.csproj", "{EF2DAA7C-A560-4C25-AA72-3692FC3EE06B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{225368F1-F4B4-4398-9F9E-F4EBC337CD5D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{225368F1-F4B4-4398-9F9E-F4EBC337CD5D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{225368F1-F4B4-4398-9F9E-F4EBC337CD5D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{225368F1-F4B4-4398-9F9E-F4EBC337CD5D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9867D03C-479D-4642-9052-A519E8AB4386}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9867D03C-479D-4642-9052-A519E8AB4386}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9867D03C-479D-4642-9052-A519E8AB4386}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9867D03C-479D-4642-9052-A519E8AB4386}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EF2DAA7C-A560-4C25-AA72-3692FC3EE06B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EF2DAA7C-A560-4C25-AA72-3692FC3EE06B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EF2DAA7C-A560-4C25-AA72-3692FC3EE06B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EF2DAA7C-A560-4C25-AA72-3692FC3EE06B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
